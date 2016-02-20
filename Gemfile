@@ -18,6 +18,7 @@ gem 'jbuilder',                '2.2.3'
 gem 'sdoc',                    '0.4.0', group: :doc
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 gem 'coffee-script-source', '1.8.0'
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 
 group :development, :test do
   gem 'sqlite3'

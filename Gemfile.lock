@@ -311,6 +311,7 @@ GEM
     uglifier (2.5.3)
       execjs (>= 0.3.0)
       json (>= 1.8.0)
+    wdm (0.1.1)
     will_paginate (3.0.7)
     xml-simple (1.1.5)
 
@@ -342,6 +343,7 @@ DEPENDENCIES
   turbolinks (= 2.3.0)
   tzinfo-data
   uglifier (= 2.5.3)
+  wdm (>= 0.1.0)
   will_paginate (= 3.0.7)
 
 BUNDLED WITH
