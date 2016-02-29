@@ -1,7 +1,7 @@
 source 'http://rubygems.org'
 
 gem 'rails',                   '4.2.2'
-# gem 'bcrypt',                  '3.1.9'
+gem 'bcrypt', '3.1.10', :require => 'bcrypt'
 gem 'faker',                   '1.4.2'
 gem 'carrierwave',             '0.10.0'
 gem 'mini_magick',             '3.8.0'
